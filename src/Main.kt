@@ -1,5 +1,5 @@
-fun sum(x: Int, y: Int): Int {
-    return x + y
+fun sum(x: Int, z: Int): Int {
+    return x + z
 }
 
 fun main() {
